@@ -1,6 +1,6 @@
 # services/rag.py
 
-from langchain.text_splitter import CharacterTextSplitter
+from langchain.text_splitters import CharacterTextSplitter
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
