@@ -4,7 +4,7 @@ import base64
 import requests
 from fpdf2 import FPDF
 
-FASTAPI_URL = "http://127.0.0.1:8000/generate-itinerary"
+FASTAPI_URL = "https://ai-travel-assistant-8hil.onrender.com"
 
 # ---- Page Config ----
 st.set_page_config(page_title="AI Travel Assistant", layout="wide")
