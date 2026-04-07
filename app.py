@@ -2,7 +2,7 @@
 import streamlit as st
 import base64
 import requests
-from fpdf import FPDF
+from fpdf2 import FPDF
 
 FASTAPI_URL = "http://127.0.0.1:8000/generate-itinerary"
 
