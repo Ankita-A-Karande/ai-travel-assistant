@@ -10,3 +10,4 @@ pypdf2
 python-docx
 openai
 langchain==0.1.0
+langchain-text-splitters
