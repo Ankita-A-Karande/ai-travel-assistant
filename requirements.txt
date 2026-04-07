@@ -9,4 +9,4 @@ faiss-cpu
 pypdf2
 python-docx
 openai
-langchain
+langchain==0.1.0
